@@ -2,7 +2,7 @@
 
 Charlotte Beer Website
 
-College front end finale
+College front end final
 
 AJAX and JQuery elements used
 
