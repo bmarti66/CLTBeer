@@ -1,9 +1,9 @@
 # CLTBeer
 
-Charlotte Beer Website
+The Charlotte Beer Website
 
 College front end final
 
-AJAX and JQuery elements used
+AJAX and JQuery
 
 Twitter API for pictures
